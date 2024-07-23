@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iousanor.github.io/sitemap
+Sitemap: https://iousanor.github.io/app/sitemap
+Sitemap: https://iousanor.github.io/assets/sitemap
+Sitemap: https://iousanor.github.io/css/sitemap
+Sitemap: https://iousanor.github.io/includes/sitemap
+Sitemap: https://iousanor.github.io/item/sitemap
+Sitemap: https://iousanor.github.io/src/sitemap
